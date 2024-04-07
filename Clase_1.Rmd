@@ -1,0 +1,192 @@
+---
+title: "No Convencionales"
+author: "Ricardo R. Palma"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Diplomatura Universitaria
+
+**Gestión y Tecnologíaspara el desarrollo Convencional y No Convencional**
+
+
+
+
+
+## TCO (Total cost of ownership).
+
+El costo total de propiedad o costo total de propiedad (proveniente del término anglosajón total cost of ownership o TCO), es un método de cálculo diseñado para ayudar a los usuarios y a los gestores empresariales a determinar los costes directos e indirectos, así como los beneficios, relacionados con un producto o sistema. 
+
+## Uso TCO
+Se usa específicamente para la compra de equipos o programas informáticos, y de modo creciente para el cálculo económico de soluciones energéticas sostenibles.
+
+## Resumen 
+
+El CTO ofrece un resumen final que refleja no sólo el coste de la compra sino aspectos del uso y mantenimiento. Esto incluye formación para el personal de soporte y para usuarios, el coste de operación, y de los equipos o trabajos de consultoría necesarios, etc.
+
+## Análisis
+
+El análisis de los costos asociados con la implantación de una tecnología puede incluir los siguientes elementos, como parte del TCO:
+
+* Instalación, configuración, garantías y licencias de computadores y programas:
+* Servidores con su correspondiente sistema operativo.
+* Estaciones de escritorio con su correspondiente sistema operativo.
+* Implantación y configuración de la tecnología en servidores y estaciones de trabajo.
+
+## Análisis (cont. 1)
+
+* Dispositivos y software para establecer comunicación por redes.
+* Gobierno de la tecnología:
+* Verificación de la viabilidad de las licencias respecto del uso requerido.
+* Seguimiento a las garantías y al cumplimiento de las licencias.
+
+## Costos (cont. 1)
+
+* Periodicidad de las actualizaciones.
+* Migración de datos.
+* Integración con otros sistemas de información.
+    * Personal:
+    * Usuarios.
+    * Administradores.
+    *Soporte técnico.
+
+## Costos (cont. 2)
+
+* Seguridad informática.
+* Control de riesgos, prevención de riesgos y reacción ante incidentes:
+* Realización de pruebas: funcionales, de estrés, de carga, de caídas abruptas, de concurrencia de usuarios.
+
+## Costos (cont. 2B)
+
+* Seguridad informática.
+* Identificación de amenazas
+* Identificación de vulnerabilidades
+* Diseño del plan de acción.
+* Auditorías periódicas (internas y externas).
+Seguros.
+
+## Costos (cont. 3)
+
+* Cifrado de datos almacenados.
+* Cifrado de las transmisiones.
+* Copias de seguridad (backups):
+* Periodicidad de realización.
+* Almacenamiento de copias (in situ o remotas).
+* Cifrado de las copias de seguridad.
+* Informática forense:
+* Investigación del incidente y determinación del procedimiento de reacción.
+
+## Costos (cont. 4)
+
+* Análisis del compromiso de las copias de seguridad.
+* Recuperación de la operación a un estado seguro sin datos comprometidos.
+* Periodicidad de las actualizaciones.
+* Migración de datos.
+
+## Costos de Operación:
+
+* Infraestructura física y costo del suelo.
+* Electricidad para los equipos.
+* Equipos complementarios (UPS, refrigeración, filtros de aire, deshumidificadores, etc.)
+* Seguridad de las instalaciones:
+* Personal de seguridad.
+* Control de acceso a los equipos computacionales.
+
+## Operación (cont. 1)
+
+* Equipos contra incendio.
+* Equipos para suministro de electricidad en caso de cortes en el fluido normal.
+* Caídas y fallas del sistema:
+* Costos asociados al tiempo fuera del aire.
+* Costos de recuperación y estabilización.
+* Disminución del desempeño (pérdidas asociadas con demoras en los tiempos de respuesta).
+
+## Operación (cont. 2)
+
+* Operación bajo fallas inadvertidas (costos asociados a este riesgo).
+* Pérdida de reputación.
+* Capacitación del personal (tomando en cuenta el entrenamiento inicial y las actualizaciones periódicas)
+* Capacitación a usuarios.
+* Capacitación a administradores.
+* Capacitación a personal de soporte técnico (niveles 1 a 5).
+
+## Operación (cont. 3)
+
+* Capacitación a personal de seguridad.
+* Costos a largo plazo.
+* Reemplazo o desmantelamiento de la tecnología.
+* Costos de escalabilidad por:
+* Crecimiento de la planta de usuarios.
+* Incremento en la cantidad de datos almacenados.
+* Cambio a alcance internacional (lenguajes, zonas horarias, divisas internacionales, etc.).
+
+## Gartner 
+
+Ver <https://www.gartner.es/es/articulos/las-10-principales-tendencias-tecnologicas-estrategicas-de-gartner-para-2024>
+
+El análisis del coste total de propiedad fue creado por el Grupo Gartner en 1987​ y desde entonces se ha desarrollado en diferentes metodologías y herramientas de software. Por ejemplo, la compra de un ordenador puede incluir la compra en sí misma, reparaciones, mantenimiento, actualizaciones, servicios y soporte, redes, seguridad, formación de usuarios y costes de licencias.
+
+## Gartner
+
+El concepto de CTP es muy usado en la industria automovilística, energía y en especial en gas/petróleo. En este contexto, el CTO implica el costo extendido a toda la vida util del producto. Desde se que consume algo de la naturaleza hasta que se recicla (o pasiva para el relleno sanitario) e incluye la desactivación de la infraestructura construida para producir el bien o servicio.
+
+
+
+
+## Las tecnologías en la nube
+
+Según lo que vimos en el informe de **Gartner** las 10 tecnologías estratégicas son:
+
+1. Tecnología sostenible
+2. Ingeniería de plataformas
+3. Desarrollo asistido por IA
+4. Plataformas industriales en la nube
+5. Aplicaciones inteligentes
+6. IA generativa democratizada
+7. Fuerza de trabajo conectada aumentada
+8. Clientes máquina
+9. Gestión de la confianza, el riesgo y la seguridad de la IA (AI TRiSM)
+10. Gestión continua de la exposición a amenazas (CTEM)
+
+
+
+## ¿Que ocurrirá con la PC?
+
+## ¿Cuál es el sistema operativo más utilizado en el mundo?
+## Cómo puedo abordar el enorme desafío de explotar el BIG-Data
+
+## ¿Qué es Kaggle y CKAN? 
+* ¿Cómo estas tecnologías están aportando a la transparencia gubernamental y empresarial?
+
+
+
+
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
